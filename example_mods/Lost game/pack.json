@@ -1,0 +1,8 @@
+{
+    "name": "Brigafunkin",
+    "description": "DEU BARRACO VEY",
+    "restart":false,
+    "runsGlobally": false,
+    "color": [61,59,41],
+    "iconFramerate": 10
+}
